@@ -1,1 +1,2 @@
-//  anexamos um script a uma página da web.
+console.log("Hello, I´m from outside file");
+

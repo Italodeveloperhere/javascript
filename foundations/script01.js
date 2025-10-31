@@ -1,0 +1,1 @@
+//  anexamos um script a uma página da web.
